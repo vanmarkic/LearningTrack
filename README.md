@@ -5,31 +5,31 @@ A incomplete log of my web development skills, learning, resources, highlights, 
 ----
 ## Tutorials Completed :
 
-Object-Oriented JavaScript: https://classroom.udacity.com/courses/ud015
-Introduction to Gatsby : https://www.gatsbyjs.org/tutorial/
++ Object-Oriented JavaScript: https://classroom.udacity.com/courses/ud015
++ Introduction to Gatsby : https://www.gatsbyjs.org/tutorial/
 
 ----
 
 ## Articles Read :
-https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a
-https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0
-https://medium.com/s/story/reflections-on-clean-code-8c9b683277ca
-https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1
-https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481
-https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76
-https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176
-https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3
-https://medium.freecodecamp.org/these-tools-will-help-you-write-clean-code-da4b5401f68e
-https://medium.com/becode/portrait-dapprenant-elisa-90e8ee326f69
-https://hackernoon.com/making-a-game-with-javascript-and-pixijs-part-1-e3235139cd6f
-https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b
-https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b
-https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
-https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85
-https://medium.freecodecamp.org/can-the-zeigarnik-effect-help-you-learn-to-code-c64282ed0f7b
-https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4
-https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
-https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc
++ https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a
++ https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0
++ https://medium.com/s/story/reflections-on-clean-code-8c9b683277ca
++ https://medium.freecodecamp.org/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1
++ https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481
++ https://medium.freecodecamp.org/a-comparison-between-angular-and-react-and-their-core-languages-9de52f485a76
++ https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176
++ https://medium.freecodecamp.org/the-5-things-you-need-to-know-to-understand-react-a1dbd5d114a3
++ https://medium.freecodecamp.org/these-tools-will-help-you-write-clean-code-da4b5401f68e
++ https://medium.com/becode/portrait-dapprenant-elisa-90e8ee326f69
++ https://hackernoon.com/making-a-game-with-javascript-and-pixijs-part-1-e3235139cd6f
++ https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b
++ https://medium.freecodecamp.org/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b
++ https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c
++ https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85
++ https://medium.freecodecamp.org/can-the-zeigarnik-effect-help-you-learn-to-code-c64282ed0f7b
++ https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4
++ https://medium.freecodecamp.org/write-less-do-more-with-javascript-es6-5fd4a8e50ee2
++ https://medium.com/@kieranmaher13/why-i-use-nodejs-for-basically-everything-i-do-e0a627787ecc
 
 ----
 
