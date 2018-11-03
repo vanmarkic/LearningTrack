@@ -4,9 +4,10 @@ A incomplete log of my web development skills, learning, resources, highlights, 
 
 ----
 ## Tutorials Completed :
-
 + Object-Oriented JavaScript: https://classroom.udacity.com/courses/ud015
 + Introduction to Gatsby : https://www.gatsbyjs.org/tutorial/
++ Content Marketing : https://www.udemy.com/hubspot-academy-content-marketing-certification-course/
++ Beginner Full Stack : https://www.udemy.com/ultimate-web/
 
 ----
 
